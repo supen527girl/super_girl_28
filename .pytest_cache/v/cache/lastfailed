@@ -1,0 +1,5 @@
+{
+  "script/test_send_mss.py::TestMms::()::test_01": true,
+  "script/test_send_mss.py::TestMms::()::test_01[\\u201c13389655030\\u201d-\\u201c\\u6211\\u201d]": true,
+  "script/test_send_mss.py::TestMms::()::test_01[\\u201c13389655031\\u201d-\\u201c\\u6211\\u9519\\u4e86\\u201d]": true
+}
